@@ -1,5 +1,5 @@
 # HR-Data-Analysis-with-Power-Bi
-This project contains power bi dashboard of the complete HR Data Analysis using Power Bi
+This project contains power bi dashboard of the complete HR Data Analysis using Power Bi. 
 
 ## Project Overview
 The goal of this project is to analyse a company's HR data to understand few key points :-
